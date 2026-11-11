@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/raw/*.csv
+!data/raw/.gitkeep
+reports/*.png
+autogluon_models/
+.DS_Store
